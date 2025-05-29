@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/Diogostos0/udemy-typescript/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/Diogostos0/udemy-typescript#readme",
   "description": "",
   "devDependencies": {
